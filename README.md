@@ -20,7 +20,7 @@ The REST API to call this functionality is-
 http://127.0.0.1:5000/getData?orderBY=<score/count>
 
 ```
-
+![Alt text](./orderBy.png?raw=true "Optional Title")
 
 #### 3- Write an endpoint to search these posts. Again, by way of a query string, filter the posts based on the presence of the search term, either in the title or body of the post.
 
@@ -29,4 +29,4 @@ The REST API to call this functionality is-
 http://127.0.0.1:5000/searchData?searchBy=<search striing>
 
 ```
-
+![Alt text](./searchBy.png?raw=true "Optional Title")
